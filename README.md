@@ -14,4 +14,4 @@ Chinese translation for OpenLiveWriter 0.6.2.0
 
 ## 感谢
 
-汉化资源感谢@chonghua
+[chonghua/OpenLiveWriter-zh-CN](https://github.com/chonghua/OpenLiveWriter-zh-CN)
