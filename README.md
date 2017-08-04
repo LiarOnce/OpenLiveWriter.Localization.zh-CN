@@ -11,3 +11,7 @@ Chinese translation for OpenLiveWriter 0.6.2.0
 就这样了：  
 
 ![screenshot](./screenshot.png)
+
+## 感谢
+
+汉化资源感谢@chonghua
