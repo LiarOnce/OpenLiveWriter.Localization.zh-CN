@@ -10,7 +10,7 @@ Chinese translation for OpenLiveWriter 0.6.2.0
 
 ## 如何编译
 1，下载 `localization` 下的 `Properties.resx` 和 `Strings.resx` 文件备用。  
-2，克隆 Open Live Writer 最新版源码。   
+2，克隆 Open Live Writer 最新版源码。        
 3，转到 Open Live Writer 项目路径，运行`build.cmd`直到结束。  
 4，转到 `src\managed\OpenLiveWriter.Localization` 覆盖下载的 `Properties.resx` 和 `Strings.resx` 文件。  
 5，转到上一级目录，双击 `writer.sln`，找到 `OpenLiveWriter.Localization` 检查 `Properties.resx` 和 `Strings.resx`中的字符是否为中文字符。  
